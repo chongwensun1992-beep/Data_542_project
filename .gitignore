@@ -1,0 +1,118 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+.vscode/
+
+# ============================
+# Jupyter Notebook
+# ============================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.ipynb.tmp
+
+# Jupyter temp
+*/.ipynb_checkpoints/
+
+# ============================
+# Logs / Cache
+# ============================
+*.log
+*.out
+*.err
+.cache/
+*.DS_Store
+Thumbs.db
+
+# ============================
+# Data (Raw or Large Files)
+# ============================
+data/raw/
+data/processed/
+*.parquet
+*.csv
+*.xlsx
+*.json
+
+# keep sample small data
+!data/samples/
+
+# ============================
+# Results / Figures
+# ============================
+results/figures/*.png
+results/figures/*.pdf
+results/*.png
+results/*.pdf
+
+# Allow reproducibility
+!results/README.md
+
+# ============================
+# Model Checkpoints
+# ============================
+*.pt
+*.pth
+*.pkl
+*.sav
+
+# ============================
+# System / IDE
+# ============================
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+.DS_Store
+
+# ============================
+# Environment Files
+# ============================
+*.env
+*.yaml
+*.yml
+
+# But keep environment.yml for reproducibility
+!environment.yml
+!requirements.txt
+
+# ============================
+# Temporary Files
+# ============================
+tmp/
+temp/
+*.tmp
+
+# ============================
+# LaTeX / Paper Build Files
+# ============================
+paper/*.aux
+paper/*.log
+paper/*.toc
+paper/*.out
+paper/*.synctex.gz
+paper/*.bbl
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+
+# Keep only the main PDF and tex
+!paper/msr2026_paper.pdf
+!paper/msr2026_paper.tex
+
