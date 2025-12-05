@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset or software, please cite this work."
+title: "AIDev Mining Challenge: Analysis of AI-Generated Pull Requests"
+abstract: >
+  This anonymous research artifact accompanies the submission to the
+  MSR 2026 Mining Challenge.
+
+authors:
+  - name: "Anonymous"
+    affiliation: "Anonymous Institution"
+
+keywords:
+  - mining software repositories
+  - AI agents
+  - autonomous pull requests
+  - MSR challenge
+
+license: "MIT"
+version: "1.0.0"
+type: software
+date-released: "2025-12-04"
