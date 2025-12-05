@@ -1,9 +1,4 @@
-# README.md — MSR 2026 Challenge Track (Anonymous Submission)
 
-## Title  
-**Replication Package for MSR 2026 Challenge Track Submission (Anonymous)**
-
-This artifact contains all code, scripts, and notebooks required to fully reproduce the results presented in our MSR 2026 Challenge Track paper. The package includes automated pipelines, engineered features, statistical tests, figures, and reproducible tables for all three research questions (RQ1–RQ3).
 
 ---
 
