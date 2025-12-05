@@ -1,9 +1,9 @@
-# ARTIFACT.md — MSR 2026 Challenge Track (Anonymous Submission)
+# ARTIFACT.md — DATA 542 Final Project 
+Title
 
-## Title  
-**Replication Package for MSR 2026 Challenge Track Submission (Anonymous)**
+Replication Package for DATA 542 Final Project (Anonymous)
 
-This artifact contains all code, scripts, and notebooks required to fully reproduce the results presented in our MSR 2026 Challenge Track paper. The package includes automated pipelines, engineered features, statistical tests, figures, and reproducible tables for all three research questions (RQ1–RQ3).
+This repository contains all code, scripts, and notebooks required to fully reproduce the analyses conducted in our DATA 542 final project. The package includes automated pipelines, data preprocessing steps, engineered features, statistical tests, figures, and reproducible tables that support all research questions explored in the project. It is designed to ensure full transparency and end-to-end reproducibility of our methodology and results.
 
 ---
 
